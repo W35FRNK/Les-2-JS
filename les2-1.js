@@ -1,5 +1,4 @@
 
-
   const naam = prompt('Uw naam', 'Naam');
   const geboortejaar = prompt('Uw geboortejaar', 'Geboortejaar' );
   const tekst = 'U heet ' + naam + ' en uw geboortejaar is ' + geboortejaar;
